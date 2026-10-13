@@ -28,5 +28,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
+## Array
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+## Sorting
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
