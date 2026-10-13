@@ -33,13 +33,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3731-find-missing-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sorting
 |  |
 | ------- |
+| [3731-find-missing-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
 |  |
 | ------- |
 | [3745-maximize-expression-of-three-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
