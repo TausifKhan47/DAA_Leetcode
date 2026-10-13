@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/1768-merge-strings-alternately) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Simulation
 |  |
 | ------- |
@@ -29,17 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Array
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sorting
 |  |
 | ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
@@ -63,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Tree
 |  |
 | ------- |
