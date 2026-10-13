@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0657-robot-return-to-origin) |
+## Math
+|  |
+| ------- |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
+## Greedy
+|  |
+| ------- |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 <!---LeetCode Topics End-->
