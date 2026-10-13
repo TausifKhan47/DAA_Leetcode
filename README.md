@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0372-super-pow](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0372-super-pow) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Greedy
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0372-super-pow](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0372-super-pow) |
 ## Tree
 |  |
 | ------- |
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
