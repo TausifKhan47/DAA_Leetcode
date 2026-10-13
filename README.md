@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0372-super-pow) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Greedy
 |  |
