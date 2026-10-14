@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0242-valid-anagram) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3731-find-missing-elements) |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0372-super-pow) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
