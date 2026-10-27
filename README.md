@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3731-find-missing-elements) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0242-valid-anagram) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/3731-find-missing-elements) |
@@ -144,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0206-reverse-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TausifKhan47/DAA_Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
